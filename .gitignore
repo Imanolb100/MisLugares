@@ -12,3 +12,10 @@
 /captures
 .externalNativeBuild
 .cxx
+gradle.properties
+settings.gradle
+'Mis Lugares Java.iml'
+local.properties
+gradlew
+gradlew.bat
+/.idea
